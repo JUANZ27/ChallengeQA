@@ -1,0 +1,488 @@
+Date: Thu, 2 Jan 2025 02:45:16 +0000 (UTC)
+Message-ID: <1373751517.293.1735785916845@6eed42af7c77>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_292_554297258.1735785916845"
+
+------=_Part_292_554297258.1735785916845
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>6.1. Gesti=C3=B3n de Personas (Portal de Autoservicios de Jefatu=
+ras)</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>6.1. Gesti=C3=B3n de Personas (Portal de Autoservicios de Jefaturas=
+)</h1>
+    <div class=3D"Section1">
+        <h1 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefa=
+turas)-PautasparaelmanejodeSIGAGDH">Pautas para el manejo de SIGA GDH</h1>
+<p><span>&nbsp;</span></p>
+<p><span>El nuevo Sistema SIGA GDH, que entr=C3=B3 en producci=C3=B3n el 16=
+ de junio, trae algunos cambios en las fechas de los procesos que administr=
+an las personas que tienen puestos de jefatura en el BCP. En este sentido, =
+consideramos necesario informarles que algunos de ellos no se podr=C3=A1n r=
+ealizar entre el 20 y el 31 del mes, dado que el sistema bloquea toda solic=
+itud que se encuentre dentro de estas fechas por encontrase procesando la p=
+lanilla de pago de haberes de nuestros colaboradores.</span></p>
+<p><span>&nbsp;</span></p>
+<p><span>Por esto, es importante que tengan en cuenta que toda interacci=C3=
+=B3n en el Sistema SIGA de Jefes y Gerentes, debe realizarse con la debida =
+anticipaci=C3=B3n. A continuaci=C3=B3n los detalles de los procesos:</span>=
+</p>
+<p><br></p>
+<h3 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-P=
+rogramaci=C3=B3ndeVacaciones">Programaci=C3=B3n de Vacaciones</h3>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><span>S=C3=B3lo se puede programar y/o modificar vacaciones de los cola=
+boradores hasta el d=C3=ADa 20 de cada mes.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Las vacaciones que se requieran programar entre el 20 y fin de me=
+s, se deber=C3=A1n registrar con anticipaci=C3=B3n o con fecha futura.</spa=
+n></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>No se puede programar vacaciones con fechas retroactivas.</span><=
+/li>
+</ul>
+<p><br></p>
+<h3 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-D=
+esvinculaci=C3=B3noRenovaci=C3=B3ndeContrato/Convenio">Desvinculaci=C3=B3n =
+o Renovaci=C3=B3n de Contrato/Convenio</h3>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><span>Solicitar los ceses por t=C3=A9rmino de contrato/convenio hasta l=
+os d=C3=ADas 10 de cada mes para colaboradores de plazo fijo y practicantes=
+.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Solicitar los ceses por renuncia, despido o mutuo disenso hasta l=
+os d=C3=ADas 20 de cada mes.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Si no se solicit=C3=B3 el cese dentro de los tiempos establecidos=
+, se deber=C3=A1 solicitar el cese con fecha 1=C2=B0 del siguiente mes.</sp=
+an></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Si se desea renovar el contrato/convenio, se deber=C3=A1 registra=
+r esta solicitud en SIGA, como m=C3=A1ximo, el 10 de cada mes, con el prop=
+=C3=B3sito de cumplir con la firma y presentaci=C3=B3n de los mismos en los=
+ plazos establecidos por el Ministerio de Trabajo.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<h3 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-M=
+ovimientosdepersonal">Movimientos de personal</h3>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><span>Solicitar y aprobar los movimientos de personal hasta el 20 de ca=
+da mes, para que figuren en ese mes.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Se pueden registrar movimientos entre el 20 y fin de mes con fech=
+a de efectividad futura.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Los movimientos que involucren una revisi=C3=B3n salarial o un ca=
+mbio de funci=C3=B3n, deber=C3=A1n concluirse antes del 10 del mes de cambi=
+o. Si el movimiento se concluye despu=C3=A9s de esta fecha la revisi=C3=B3n=
+ o cambio se realizar=C3=A1 el siguiente mes</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<h3 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-I=
+ncorporaciones">Incorporaciones</h3>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>El ingreso de un nuevo colaborador solo se podr=C3=A1 registrar u=
+na vez concluido el proceso de contrataci=C3=B3n (entrega de documentos y e=
+x=C3=A1menes m=C3=A9dicos) y solo hasta el 20 de cada mes, de lo contrario =
+solo se podr=C3=A1 registrar el ingreso a partir&nbsp;&nbsp;de 1=C2=B0 del =
+siguiente mes.</span></li>
+</ul>
+<p><br></p>
+<h3 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-R=
+egistrodeAsistencia">Registro de Asistencia</h3>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><span>Por exigencia legal, los colaboradores con supervisi=C3=B3n direc=
+ta que marcan, deben hacer el registro de su ingreso y salida de manera obl=
+igatoria.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Las ausencias y tardanzas deben justificarse a la brevedad dentro=
+ del mes en curso hasta el 20 de cada mes.</span></li>
+</ul>
+<p><br></p>
+<h3 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-L=
+icenciasporEnfermedadyMaternidad">Licencias por Enfermedad y Maternidad</h3=
+>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><span>Los certificados m=C3=A9dicos deber=C3=A1n ser enviados con el&nb=
+sp;V=C2=B0B=C2=B0&nbsp;de la jefatura del colaborador inmediatamente inicia=
+do el descanso, a m=C3=A1s tardar dentro de los siguientes 3 d=C3=ADas =C3=
+=BAtiles.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>En caso de embarazo, al 7mo. mes, la colaboradora deber=C3=A1 com=
+unicarse con GDH para informarse sobre los tramites que deber=C3=A1 seguir =
+para su licencia por Maternidad.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Enviar el certificado de incapacidad temporal (CITT) para las lic=
+encias por Maternidad a m=C3=A1s tardar 15 d=C3=ADas antes del inicio del d=
+escanso m=C3=A9dico, lo que permitir=C3=A1 preparar y presentar el expedien=
+te a ESSALUD por la subvenci=C3=B3n y el subsidio de lactancia.</span></li>
+</ul>
+<p><br></p>
+<h1 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-P=
+agosEspeciales,porSuplenciayHorasExtra">Pagos Especiales, por Suplencia y H=
+oras Extra</h1>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Registrar y aprobar los pagos especiales, por suplencia y horas e=
+xtra hasta el d=C3=ADa 20 de cada mes.</span></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<ul>
+<li><span>Las solicitudes de Pagos Especiales podr=C3=A1n ser registradas y=
+ aprobadas hasta dentro de los siguientes 40 d=C3=ADas calendario de realiz=
+ada la labor.</span></li>
+</ul>
+<p><br></p>
+<h1 id=3D"id-6.1.Gesti=C3=B3ndePersonas(PortaldeAutoserviciosdeJefaturas)-R=
+esumen">Resumen</h1>
+<p><strong>&nbsp;</strong></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"confluenceTd">
+<p><strong>Proceso</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>hasta el d=C3=ADa 10</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>hasta el d=C3=ADa 20</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Vacaciones</p></td>
+<td class=3D"confluenceTd">
+<p><br></p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Desvinculaci=C3=B3n: termino contrato plazo fijo / practicantes</p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>&nbsp;</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Desvinculaci=C3=B3n: renuncia /despido/mutuo disenso</p></td>
+<td class=3D"confluenceTd">
+<p><br></p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Renovaci=C3=B3n de contrato/convenio</p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+<td class=3D"confluenceTd">
+<p><strong>&nbsp;</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Movimientos de personal</p></td>
+<td class=3D"confluenceTd">
+<p><br></p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Incorporaciones</p></td>
+<td class=3D"confluenceTd">
+<p><br></p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Registro de Asistencia</p></td>
+<td class=3D"confluenceTd">
+<p><br></p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">
+<p>Pagos Especiales, por Suplencia y Horas Extra</p></td>
+<td class=3D"confluenceTd">
+<p><br></p></td>
+<td class=3D"confluenceTd">
+<p><strong>x</strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<ul>
+<li>Estas fechas de corte son necesarias para un adecuado procesamiento del=
+ pago de haberes de los colaboradores del BCP.</li>
+</ul>
+<p><br></p>
+<ul>
+<li>Se debe revisar siempre la bandeja de =E2=80=9CMis Aprobaciones=E2=80=
+=9D, para evaluar/aprobar de manera oportuna las solicitudes que ingresen.<=
+/li>
+</ul>
+<p><br></p>
+<ul>
+<li>Cualquier consulta por favor comun=C3=ADcate con tu Asesor de GDH.</li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_292_554297258.1735785916845--
