@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#PREMI-9831] [NREM][Sprint 6 Q4-2024 - Escaneo de vulnerabilidades]</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://bcp-ti.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [PREMI-9831]&nbsp;<a href="https://bcp-ti.atlassian.net/browse/PREMI-9831">[NREM][Sprint 6 Q4-2024 - Escaneo de vulnerabilidades]</a>
+            <span class="subText">
+               Creada: 20/dic/24                   &nbsp;Actualizada: 20/dic/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Estado:</b></td>
+        <td width="80%">In Development</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Proyecto:</b></td>
+        <td width="80%"><a href="https://bcp-ti.atlassian.net/secure/BrowseProject.jspa?id=13788">00023132 AIT: Remesas</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones afectadas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versiones corregidas:</b></td>
+            <td>
+                            Ninguno
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test Plan
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridad:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                High
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Informador:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:34ec55c5-159d-4ce5-9ff5-f4c10c06c676"
+                id="word_reporter_712020:34ec55c5-159d-4ce5-9ff5-f4c10c06c676"
+                href="https://bcp-ti.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A34ec55c5-159d-4ce5-9ff5-f4c10c06c676">
+                    Kevin Gerardo Garay Medrano
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Persona asignada:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:34ec55c5-159d-4ce5-9ff5-f4c10c06c676"
+                id="word_assignee_712020:34ec55c5-159d-4ce5-9ff5-f4c10c06c676"
+                href="https://bcp-ti.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A34ec55c5-159d-4ce5-9ff5-f4c10c06c676">
+                    Kevin Gerardo Garay Medrano
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolución:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Sin resolver
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Etiquetas:</b>
+        </td>
+        <td id="labels-15531727-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            NREM                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Trabajo restante estimado:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tiempo Trabajado:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimación original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconocido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Enlaces de incidencias:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Cloners</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                is cloned by
+            </td>
+            <td>
+                <a href="https://bcp-ti.atlassian.net/browse/PREMI-9836">
+                     PREMI-9836                 </a>
+            </td>
+            <td>
+                [NREM][Sprint 6 Q4-2024 - Escaneo de ...
+            </td>
+            <td>
+                In Development
+            </td>
+        </tr>
+                                                <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://bcp-ti.atlassian.net/browse/PREMI-9534">
+                     PREMI-9534                 </a>
+            </td>
+            <td>
+                Expone las funcionalidades de remesas...
+            </td>
+            <td>
+                In Development
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descripción</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <h1><a name="PlandePruebas"></a><b>Plan de Pruebas</b></h1>
+
+<ol>
+	<li><b>Objetivo</b></li>
+</ol>
+
+
+
+<p>     Escaneo de vulnerabilidades mediante owas zap a las apis en certificación</p>
+
+<ol>
+	<li><b>Alcance y Estrategia de Pruebas</b></li>
+</ol>
+
+
+
+<p>           <b>2.1 Lo que se va a probar ( Funcionalidades)</b></p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Funcionalidad</b></th>
+<th class='confluenceTh'><b>Responsable</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>Escaneo de vulnerabilidades</td>
+<td class='confluenceTd'>Kevin Garay</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p> </p>
+
+<p><b>&lt;&lt;Detalle de cómo se va a probar&gt;&gt;</b></p>
+
+<ul>
+	<li>Escanear vulnerabilidades mediante las consultas a las apis al happy path y análisis de la herramienta owas zap</li>
+</ul>
+
+
+<p>           <b>2.2 Lo que no se va a probar (detallar el alcance de lo que no se va a probar)</b></p>
+
+<ul>
+	<li>Respuestas fuera del happy path  </li>
+</ul>
+
+
+<ol>
+	<li><b>Aplicaciones o canales impactados.</b></li>
+</ol>
+
+
+
+<p>                 &lt;Registrar las aplicaciones impactadas por los cambios que se realizan dentro de HU&gt;  </p>
+
+<ul>
+	<li>ninguna</li>
+</ul>
+
+
+<p>             </p>
+
+<ol>
+	<li><b>Tipo de prueba</b></li>
+</ol>
+
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Validaciones Monetarias</b></th>
+<th class='confluenceTh'><b>Si  No</b></th>
+<th class='confluenceTh'> </th>
+<th class='confluenceTh'> <b>Si No</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>Validaciones con Lynx</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de Banktrace</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación en la tabla Auditoria y DataLake</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de GGTT</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación por el consumo del API de Negocio</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación del reporte CAST</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validaciones del negocio con el Owner del Producto</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de reporte Xray</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación Contable (diaria, semanal, mensual)</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de Reporte Sonar</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación de RSA</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación Fortify</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación de Dynatrace</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de Motor de Cambios</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación de Kibana</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de TTIB</td>
+<td class='confluenceTd'> NO</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validar en la consulta a Cosmo</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'>Validación de Mainframe</td>
+<td class='confluenceTd'> NO </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Validación Monitor</td>
+<td class='confluenceTd'> NO</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Pruebas funcionales (funcionalidades, diseño)</b></th>
+<th class='confluenceTh'><b>Si</b></th>
+<th class='confluenceTh'><b>No</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas de Seguridad                                                    </td>
+<td class='confluenceTd'>X   </td>
+<td class='confluenceTd'>&nbsp;</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas de Usabilidad</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas de Performance</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas de Migración</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas de Portabilidad</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas Contables</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Otros tipos de pruebas (Cache, base de datos, …)</td>
+<td class='confluenceTd'>   </td>
+<td class='confluenceTd'> X</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>           **           &lt;&lt; Si marco Performance indicar que pruebas de performances realizara (estres, picos, escalabilidad, volumen, etc &gt;&gt;</p>
+
+<ol>
+	<li><b>Niveles de Pruebas</b></li>
+</ol>
+
+
+<p><b>Marcar en qué niveles se realizarán las pruebas de la HU/MVP</b> </p>
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Niveles de Pruebas</b></th>
+<th class='confluenceTh'><b>Si</b></th>
+<th class='confluenceTh'><b>No</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'>Nivel de Componente                                                    </td>
+<td class='confluenceTd'>  X  </td>
+<td class='confluenceTd'>       </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Nivel de Integración</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Nivel de Aceptación</td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> X</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Pruebas E2E</td>
+<td class='confluenceTd'>   </td>
+<td class='confluenceTd'> X</td>
+</tr>
+</tbody></table>
+</div>
+
+
+<ol>
+	<li> <b>Estrategia de ejecución de Pruebas</b></li>
+</ol>
+
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Flujo</b></th>
+<th class='confluenceTh'><b>Dependencia / Riesgos</b></th>
+<th class='confluenceTh'><b>Tipo de Prueba</b></th>
+<th class='confluenceTh'><b>F. Inicio</b><br/>
+<b>Estimada</b></th>
+<th class='confluenceTh'><b>F. Fin</b><br/>
+<b>Estimada</b></th>
+<th class='confluenceTh'><b>F. Inicio</b><br/>
+<b>Real</b></th>
+<th class='confluenceTh'><b>F. Fin</b><br/>
+<b>Real</b></th>
+<th class='confluenceTh'><b>Ambiente</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+</tr>
+</tbody></table>
+</div>
+
+
+<ol>
+	<li> <b>Análisis de Riesgos</b></li>
+</ol>
+
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>HU</b></th>
+<th class='confluenceTh'><b>Riesgo</b></th>
+<th class='confluenceTh'><b>Impacto</b></th>
+<th class='confluenceTh'><b>Probabilidad</b></th>
+<th class='confluenceTh'><b>Riesgo</b></th>
+<th class='confluenceTh'><b>Responsable</b></th>
+<th class='confluenceTh'><b>Acción Propuesta</b></th>
+<th class='confluenceTh'><b>Fecha Compromiso</b></th>
+<th class='confluenceTh'><b>Hrs Desfase</b></th>
+</tr>
+<tr>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+<td class='confluenceTd'> </td>
+</tr>
+</tbody></table>
+</div>
+
+
+<ol>
+	<li> <b>Entorno de Pruebas</b></li>
+</ol>
+
+
+<p>Colocar los entornos en los que se realizan las pruebas(ambientes, sistemas Operativos, Dispositivos, tecnologías).</p>
+
+<p>          <b>8.1 Ambientes Desarrollo Certificación Producción</b></p>
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Ambiente</b></th>
+<th class='confluenceTh'> </th>
+</tr>
+<tr>
+<td class='confluenceTd'>Desarrollo                                                                         </td>
+<td class='confluenceTd'>           </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Certificación</td>
+<td class='confluenceTd'>    x</td>
+</tr>
+<tr>
+<td class='confluenceTd'>Producción</td>
+<td class='confluenceTd'>   </td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>          <b>8.2 Dispositivos</b></p>
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Dispositivos</b></th>
+<th class='confluenceTh'> </th>
+</tr>
+<tr>
+<td class='confluenceTd'>Desktop                                                                             </td>
+<td class='confluenceTd'>       x        </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Mobile</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Cajeros</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>POS</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Otros</td>
+<td class='confluenceTd'>  </td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>                       &lt;&lt; Detallar si marcó otros e indicar qué tipos de Dispositivos son &gt;&gt;</p>
+
+<ul>
+	<li> se validará mediante la ejecución del análisis de owas app el escaneo de vulnerabilidades.</li>
+</ul>
+
+
+<p>            &lt;&lt; Si marco Mobile indicar los modelos de celulares y versiones a utilizar en las pruebas &gt;&gt;</p>
+
+<p>           <b>8.3 Sistemas Operativos</b></p>
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Sistemas Operativos</b></th>
+<th class='confluenceTh'> </th>
+</tr>
+<tr>
+<td class='confluenceTd'>Windows                                                                           </td>
+<td class='confluenceTd'>  x             </td>
+</tr>
+<tr>
+<td class='confluenceTd'>MacOS</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Linux</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Android</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>IOS</td>
+<td class='confluenceTd'> </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Otros</td>
+<td class='confluenceTd'>  </td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>         **                &lt;&lt; Detallar si marcó otros e indicar qué tipos de S.O son &gt;&gt;</p>
+
+<p>    </p>
+
+<ol>
+	<li><b>Ratificación</b></li>
+</ol>
+
+
+<p> </p>
+
+<div class='table-wrap'>
+<table class='confluenceTable'><tbody>
+<tr>
+<th class='confluenceTh'><b>Tipo de Ratificación</b></th>
+<th class='confluenceTh'> </th>
+</tr>
+<tr>
+<td class='confluenceTd'>Parcial                                                                                 </td>
+<td class='confluenceTd'>  X            </td>
+</tr>
+<tr>
+<td class='confluenceTd'>Total</td>
+<td class='confluenceTd'> </td>
+</tr>
+</tbody></table>
+</div>
+
+
+<p>                  **                  &lt;&lt;Detallar Plan de Ratificación&gt;&gt; </p>
+
+<ul>
+	<li>validar la ejecución de una happy path de cada paso del MVP.</li>
+</ul>
+
+
+<p>                  &lt;&lt;Canales que van a Ratificar&gt;&gt;</p>
+
+<ul>
+	<li>         no aplica para esta funcionalidad.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generado a las Thu Jan 02 02:53:49 GMT 2025 por Juan Carlos Salazar Quispe usando JIRA 1001.0.0-SNAPSHOT#100277-rev:04504326a3bb85891591d523cc28ed61aefaa46b.
+
+</body>
+</html>
