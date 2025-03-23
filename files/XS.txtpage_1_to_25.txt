@@ -1,0 +1,353 @@
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    1 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   BKTA1     USUARIO BANKTRADE   OFICINA : BKT                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                   245.42     CTAS. CORRIENTES                 0.00                                                                      
+                     0.00     BANKTRADE                      245.42                                                                      
+                   245.42     -- SUB- TOTAL --               245.42                                                                      
+                   245.42     TOTAL MOVIMIENTO               245.42                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    2 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   BKTD1     USUARIO BANKTRADE   OFICINA : BKT                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                   690.96     CTAS. CORRIENTES                 0.00                                                                      
+                     0.00     BANKTRADE                      690.96                                                                      
+                   690.96     -- SUB- TOTAL --               690.96                                                                      
+                   690.96     TOTAL MOVIMIENTO               690.96                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    3 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     TETI-OPE. CA0-A                                                                                                                     
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     CTAS. CORRIENTES            13,250.93                                                                      
+                13,250.93     OT. X LIQ.COLOC.                 0.00                                                                      
+                13,250.93     -- SUB- TOTAL --            13,250.93                                                                      
+                13,250.93     TOTAL MOVIMIENTO            13,250.93                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    4 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     TETI-OPE. CA0-A                                                                                                                     
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     CTAS. CORRIENTES             5,413.00                                                                      
+                 5,413.00     OT. X LIQ.COLOC.                 0.00                                                                      
+                 5,413.00     -- SUB- TOTAL --             5,413.00                                                                      
+                 5,413.00     TOTAL MOVIMIENTO             5,413.00                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    5 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60000    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                    15.05     CTAS. CORRIENTES               941.01                                                                      
+                   941.01     COME/VEME ME-SUC                15.05                                                                      
+                   956.06     -- SUB- TOTAL --               956.06                                                                      
+                   956.06     TOTAL MOVIMIENTO               956.06                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    6 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60000    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     RET-AHORROS-DEP.                83.01                                                                      
+                     4.22     COME/VEME ME-SUC               264.03                                                                      
+                   347.04     CTA. PENDIENTE                   4.22                                                                      
+                   351.26     -- SUB- TOTAL --               351.26                                                                      
+                   351.26     TOTAL MOVIMIENTO               351.26                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    7 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60001    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                   398.73     CTAS. CORRIENTES                 0.00                                                                      
+                     0.00     COME/VEME ME-SUC               398.73                                                                      
+                   398.73     -- SUB- TOTAL --               398.73                                                                      
+                   398.73     TOTAL MOVIMIENTO               398.73                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    8 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60001    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     CTAS. CORRIENTES                66.01                                                                      
+                   112.04     COME/VEME ME-SUC                 0.00                                                                      
+                    66.01     CTA. PENDIENTE                 112.04                                                                      
+                   178.05     -- SUB- TOTAL --               178.05                                                                      
+                   178.05     TOTAL MOVIMIENTO               178.05                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG    9 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60002    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                 1,555.94     CTAS. CORRIENTES               531.63                                                                      
+                   531.63     COME/VEME ME-SUC             1,555.94                                                                      
+                 2,087.57     -- SUB- TOTAL --             2,087.57                                                                      
+                 2,087.57     TOTAL MOVIMIENTO             2,087.57                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   10 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60002    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     CTAS. CORRIENTES                65.01                                                                      
+                   435.27     COME/VEME ME-SUC               149.02                                                                      
+                   214.03     CTA. PENDIENTE                 435.27                                                                      
+                   649.30     -- SUB- TOTAL --               649.30                                                                      
+                   649.30     TOTAL MOVIMIENTO               649.30                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   11 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60003    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                    10.04     CTAS. CORRIENTES               634.93                                                                      
+                     0.00     RET-AHORROS-DEP.               288.23                                                                      
+                   923.16     COME/VEME ME-SUC                10.04                                                                      
+                   933.20     -- SUB- TOTAL --               933.20                                                                      
+                   933.20     TOTAL MOVIMIENTO               933.20                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   12 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60003    ORQUESTADOR         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     2.82     COME/VEME ME-SUC               259.01                                                                      
+                   259.01     CTA. PENDIENTE                   2.82                                                                      
+                   261.83     -- SUB- TOTAL --               261.83                                                                      
+                   261.83     TOTAL MOVIMIENTO               261.83                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   13 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60004    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                    10.04     CTAS. CORRIENTES                 0.00                                                                      
+                     0.00     COME/VEME ME-SUC                10.04                                                                      
+                    10.04     -- SUB- TOTAL --                10.04                                                                      
+                    10.04     TOTAL MOVIMIENTO                10.04                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   14 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60004    ORQUESTADOR         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     2.82     COME/VEME ME-SUC                 0.00                                                                      
+                     0.00     CTA. PENDIENTE                   2.82                                                                      
+                     2.82     -- SUB- TOTAL --                 2.82                                                                      
+                     2.82     TOTAL MOVIMIENTO                 2.82                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   15 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60005    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     6.01     CTAS. CORRIENTES               218.42                                                                      
+                   218.42     COME/VEME ME-SUC                 6.01                                                                      
+                   224.43     -- SUB- TOTAL --               224.43                                                                      
+                   224.43     TOTAL MOVIMIENTO               224.43                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   16 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60005    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     CTAS. CORRIENTES               242.03                                                                      
+                     1.68     COME/VEME ME-SUC                61.01                                                                      
+                   303.04     CTA. PENDIENTE                   1.68                                                                      
+                   304.72     -- SUB- TOTAL --               304.72                                                                      
+                   304.72     TOTAL MOVIMIENTO               304.72                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   17 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60006    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                   380.04     CTAS. CORRIENTES               323.81                                                                      
+                     0.00     RET-AHORROS-DEP.               291.79                                                                      
+                   615.60     COME/VEME ME-SUC               380.04                                                                      
+                   995.64     -- SUB- TOTAL --               995.64                                                                      
+                   995.64     TOTAL MOVIMIENTO               995.64                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   18 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60006    ORQUESTADOR         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                   106.81     COME/VEME ME-SUC               173.02                                                                      
+                   173.02     CTA. PENDIENTE                 106.81                                                                      
+                   279.83     -- SUB- TOTAL --               279.83                                                                      
+                   279.83     TOTAL MOVIMIENTO               279.83                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   19 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60007    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                    10.04     CTAS. CORRIENTES               334.49                                                                      
+                   334.49     COME/VEME ME-SUC                10.04                                                                      
+                   344.53     -- SUB- TOTAL --               344.53                                                                      
+                   344.53     TOTAL MOVIMIENTO               344.53                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   20 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60007    ORQUESTADOR         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     2.82     COME/VEME ME-SUC                94.01                                                                      
+                    94.01     CTA. PENDIENTE                   2.82                                                                      
+                    96.83     -- SUB- TOTAL --                96.83                                                                      
+                    96.83     TOTAL MOVIMIENTO                96.83                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   21 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60008    NUE REMESAS         OFICINA : V60                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                    20.08     CTAS. CORRIENTES             1,071.80                                                                      
+                 1,071.80     COME/VEME ME-SUC                20.08                                                                      
+                 1,091.88     -- SUB- TOTAL --             1,091.88                                                                      
+                 1,091.88     TOTAL MOVIMIENTO             1,091.88                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   22 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 191-LIMA              SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   V60008    ORQUESTADOR         OFICINA : V60                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     5.64     COME/VEME ME-SUC               300.02                                                                      
+                   300.02     CTA. PENDIENTE                   5.64                                                                      
+                   305.66     -- SUB- TOTAL --               305.66                                                                      
+                   305.66     TOTAL MOVIMIENTO               305.66                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   23 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 380-ICA               SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   AC1529    AC1529              OFICINA : LEI                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   24 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 455-PAITA             SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   E17228    FRANKLIN SULCA      OFICINA : C20                                                                               
+     MONEDA NACIONAL                                                                                                                     
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+             4,425,828.61     RET-AHORROS-DEP.            45,000.00                                                                      
+                     0.00     IMP. TRAN. FIN.                221.25                                                                      
+             4,425,828.61     -- SUB- TOTAL --            45,221.25                                                                      
+             4,425,828.61         NO CUADRA               45,221.25                                                                      
+ 
+    ************************************************************************************************************************************ 
+    B.C.P. PAG   25 JOB-CP1TS8X0 PASO-TSP0SIN2 PGR-BCTSSIN2 DD-O1TSSIN2-A MOVI. VIERNES   21/03/2025 PROC. VIERNES   21/03/2025 20.28 HS 
+    ************************************************************************************************************************************ 
+                                                                                                                                         
+     SUCURSAL 455-PAITA             SINTETICO POR OPERADOR AL 21-03-2025                                                                 
+     USUARIO   E17228    FRANKLIN SULCA      OFICINA : C20                                                                               
+     MONEDA EXTRANJERA                                                                                                                   
+                                                                                                                                         
+                  D E B E      C U E N T A S              H A B E R                                                                      
+                     0.00     RET-AHORROS-DEP.             5,000.00                                                                      
+                     0.00     -- SUB- TOTAL --             5,000.00                                                                      
+                     0.00         NO CUADRA                5,000.00                                                                      
+                                                                                                                                         
+     FIN DE REPORTE  -  21/03/25    20.28                                                                                                
