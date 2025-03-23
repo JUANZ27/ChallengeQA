@@ -1,0 +1,137 @@
+ 
+    B.C.P. PAG 1045 JOB-CP1IMR10 PASO-STEP065A PGR-BCIMYP54 DD-BCIRYP54-A MOVI. VIERNES   21/03/2025 PROC. SABADO    22/03/2025 02.16 HS 
+    ************************************************************************************************************************************ 
+    SUCURSAL SAN ISIDRO                                                                                                                  
+    MONEDA NACIONAL                                           LIMA 21/03/25                                                              
+                                                                                                                                         
+                             DIARIO DE MOVIMIENTO DE CUENTAS CORRIENTES Y CUENTAS MAESTRAS (FONDO LIBRE) M.N.                            
+    ------------------------------------------------------------------------------------------------------------------------------------ 
+    SUC-AG.     REFERENCIA           CAUSAL TRANS.       IMPORTE       VALUTA BCO.  HORA  TETI/ N.OPER. USUARIO       OBSERVAC.          
+    OPERAT.                                                                         ATENC. OPER                                          
+    ------------------------------------------------------------------------------------------------------------------------------------ 
+                                                                                                                                         
+     NORMAL     193-0003452309-0-06 (CTE.)    EMPRESA PRUEBA CERTIFICACION                                                               
+    111 065  EFECTIVOAS63840494G702  TRAF   2401               49.04               14 22 OBXE-K 0000016  OBE793                          
+    111 065  EFECTIVO     BRAVOG7MN  TRAF   2401               49.04               14 13 OBHI-K 0001512  OBE258                          
+    111 023  EFECTIVOAS63840494G702  TRAF   1013               49.04               08 41 BMTM-  0000017  BMO728                          
+    111 023  EFECTIVO        67G789  TRAF   1013               49.04               08 44 BMVM-  0000020  BMO800                          
+    111 023  EFECTIVO        67G789  TRAF   1013               49.04               08 49 BMP0-  0000026  BMO598                          
+    111 023  EFECTIVO        ROG701  TRAF   1013               49.04               08 39 BMP8-  0000014  BMO606                          
+    111 023  EFECTIVO        ROG701  TRAF   1013               49.04               08 53 BMX8-  0000044  BMO894                          
+    111 065  EFECTIVO     ROMEOG7M0  TRAF   2401               98.08               14 16 OBMb-K 0001015  OBEC10                          
+    111 023  EFECTIVO      G78039AS  TRAF   1013               98.08               08 46 BMIU-  0000022  BMO379                          
+    111 023  EFECTIVO        67G789  TRAF   1013               98.08               08 48 BMB9-  0000024  BMO145                          
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL           5,378.84   SALDO LIQUIDO           5,378.84   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003480131-0-37 (CTE.)    CAR CENTER                                                                                 
+    20/03/25                SALDO ANTERIOR                 39,081.92                                                                     
+    193 000  REGULARIZACION ITF             2605                 .55               05 58     -H                  MN                      
+    193 000  REGULARIZACION ITF             2605                 .55               05 58     -H                  MN                      
+    193 000  REGULARIZACION ITF             2605                 .55               05 58     -H                  MN                      
+    111 065  PROV TLC 11035          CARU   4401                1.00-              11 01 OBAa-K 5506205  OBE897                          
+    111 065  PROV TLC 11037          CARU   4401                1.00-              11 51 OBAa-K 5508551  OBE897                          
+    111 065  PROV TLC 11038          CARU   4401                1.00-              12 12 OBAa-K 5508648  OBE897                          
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL          39,080.57   SALDO LIQUIDO          39,080.57   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003482526-0-28 (CTE.)    REMESAS BCP                                                                                
+    20/03/25                SALDO ANTERIOR                 14,820.29                                                                     
+    191 000  ABO CTA 84232721        ABOU   2710              254.22               21 23 V608-0 4232721  V60008                          
+    191 000  ABO CTA 84282853        ABOU   2710              257.80               21 23 V600-0 4282853  V60000                          
+    191 000  ABO CTA 18129614        ABOU   2710              261.38               21 23 V603-0 4129614  V60003                          
+    191 000  ABO CTA 19862627        ABOU   2710              323.81               19 46 V606-0 4862627  V60006                          
+    191 000  ABO CTA 52089505        ABOU   2710              330.93               19 47 V600-0 4089505  V60000                          
+    191 000  ABO CTA 88157576        ABOU   2710              334.49               20 00 V607-0 4157576  V60007                          
+    191 000  ABO CTA 35555718        ABOU   2710              352.28               19 47 V600-0 4555718  V60000                          
+    191 000  ABO CTA 34471200        ABOU   2710              370.00               19 50 V608-0 4471200  V60008                          
+    191 000  ABO CTA 91310034        ABOU   2710              373.55               19 50 V603-0 4310034  V60003                          
+    191 000  ANUL 58910757           CARU   4210                5.01-              11 00 V600-0 3910757  V60000                          
+    191 000  ANUL 32835044           CARU   4210                6.01-              11 00 V605-0 3835044  V60005                          
+    191 000  ANUL 31020329           CARU   4210               10.04-              11 00 V600-0 3020329  V60000                          
+    191 000  ANUL 97324850           CARU   4210               10.04-              11 00 V602-0 3324850  V60002                          
+    191 000  ANUL 32671737           CARU   4210               10.04-              11 00 V603-0 3671737  V60003                          
+    191 000  ANUL 18233778           CARU   4210               10.04-              11 00 V604-0 3233778  V60004                          
+    191 000  ANUL 15710689           CARU   4210               10.04-              11 00 V606-0 3710689  V60006                          
+    191 000  ANUL 79569088           CARU   4210               10.04-              11 00 V607-0 3569088  V60007                          
+    191 000  ANUL 50070703           CARU   4210               10.04-              11 00 V608-0 3070703  V60008                          
+ 
+    B.C.P. PAG 1046 JOB-CP1IMR10 PASO-STEP065A PGR-BCIMYP54 DD-BCIRYP54-A MOVI. VIERNES   21/03/2025 PROC. SABADO    22/03/2025 02.16 HS 
+    ************************************************************************************************************************************ 
+    SUCURSAL SAN ISIDRO                                                                                                                  
+    MONEDA NACIONAL                                           LIMA 21/03/25                                                              
+                                                                                                                                         
+                             DIARIO DE MOVIMIENTO DE CUENTAS CORRIENTES Y CUENTAS MAESTRAS (FONDO LIBRE) M.N.                            
+    ------------------------------------------------------------------------------------------------------------------------------------ 
+    SUC-AG.     REFERENCIA           CAUSAL TRANS.       IMPORTE       VALUTA BCO.  HORA  TETI/ N.OPER. USUARIO       OBSERVAC.          
+    OPERAT.                                                                         ATENC. OPER                                          
+    ------------------------------------------------------------------------------------------------------------------------------------ 
+                                                                                                                                         
+     NORMAL     193-0003482526-0-28 (CTE.)    REMESAS BCP                                                                                
+    191 000  ANUL 70058739           CARU   4210               10.04-              11 00 V608-0 3058739  V60008                          
+    191 000  ANUL 92359207           CARU   4210               11.19-              11 00 V601-0 3359207  V60001                          
+    191 000  ANUL 74363799           CARU   4210               13.99-              11 00 V601-0 3363799  V60001                          
+    111 017  COBR REM AG 2003PEN     TRAF   4210              330.93-              19 55 A8Tv-E 0000095  2003PE                          
+    111 017  COBR REM AG 2003PEN     TRAF   4210              352.28-              19 57 A8S5-E 0000100  2003PE                          
+    191 000  ANUL 90837316           CARU   4210              370.00-              19 53 V606-0 3837316  V60006                          
+    191 000  ANUL 75935343           CARU   4210              373.55-              19 53 V601-0 3935343  V60001                          
+    191 000  ANUL 21686174           CARU   4210              595.89-              11 00 V602-0 3686174  V60002                          
+    191 000  ANUL 42641448           CARU   4210              950.01-              11 00 V602-0 3641448  V60002                          
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL          14,589.57   SALDO LIQUIDO          14,589.57   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003487260-0-47 (CTE.)    EMPRESA PARA DESEMBOLSO                                                                    
+    10/03/25                SALDO ANTERIOR                158,097.46                                                                     
+    111 016  PAGO PRESTAMO           101001 4906            1,072.53-              04 04 ITFA   0000300  ITAM    MN                      
+    193 000  IMPUESTO ITF                   0909                 .05-              99 99 BTCH                                            
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL         157,024.88   SALDO LIQUIDO         157,024.88   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003555695-0-09 (CTE.)    LA CASITA S.A.C                                                                            
+    20/03/25                SALDO ANTERIOR              4,063,631.77                                                                     
+    111 016  PAGO PRESTAMO           101001 4906           11,181.45-              04 04 ITFA   0000300  ITAM    MN                      
+    193 000  IMPUESTO ITF                   0909                 .55-              99 99 BTCH                                            
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL       4,052,449.77   SALDO LIQUIDO       4,052,449.77   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003620339-0-79 (CTE.)    HIPERBODEGA S A                                                                            
+    28/02/25                SALDO ANTERIOR                 79,765.99                                                                     
+    111 008  Pag tarjeta credito     CARU   4404               14.08-              11 23 TNRT-  1000503  TNP0RT                          
+    111 008  Pag tarjeta credito     CARU   4404               67.40-              10 37 TNR0-  1002501  TNP0R0                          
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL          79,684.51   SALDO LIQUIDO          79,684.51   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003620343-0-20 (CTE.)    EL SUPER S A                                                                               
+    28/02/25                SALDO ANTERIOR                 96,061.13                                                                     
+    111 008  Pag tarjeta credito     CARU   4404               32.50-              12 05 TNHd-  1002507  TNP285                          
+    193 000  IMPUESTO ITF                   0909                 .45-              99 99 BTCH-                                           
+    111 008  Pag tarjeta credito     CARU   4404               50.00-              17 48 TNFS-  1000009  TNP0FS                          
+    111 008  Pag tarjeta credito     CARU   4404              205.59-              18 22 TNZN-  1003012  TNP0ZN                          
+    111 008  Pag tarjeta credito     CARU   4404              225.00-              12 14 TNRE-  1002002  TNP0RE                          
+    111 008  Pag tarjeta credito     CARU   4404              335.61-              18 06 TNPm-  1003520  TNP476                          
+    111 008  Pag tarjeta credito     CARU   4404              500.00-              16 25 TNPU-  1002515  TNP0PU                          
+    111 008  Pag tarjeta credito     CARU   4404            1,522.12-              13 31 TNJ4-L 1000507  TNP0J4                          
+    111 008  Pag tarjeta credito     CARU   4404            2,500.00-              15 11 TNZZ-  1000508  TNP0ZZ                          
+ 
+    B.C.P. PAG 1047 JOB-CP1IMR10 PASO-STEP065A PGR-BCIMYP54 DD-BCIRYP54-A MOVI. VIERNES   21/03/2025 PROC. SABADO    22/03/2025 02.16 HS 
+    ************************************************************************************************************************************ 
+    SUCURSAL SAN ISIDRO                                                                                                                  
+    MONEDA NACIONAL                                           LIMA 21/03/25                                                              
+                                                                                                                                         
+                             DIARIO DE MOVIMIENTO DE CUENTAS CORRIENTES Y CUENTAS MAESTRAS (FONDO LIBRE) M.N.                            
+    ------------------------------------------------------------------------------------------------------------------------------------ 
+    SUC-AG.     REFERENCIA           CAUSAL TRANS.       IMPORTE       VALUTA BCO.  HORA  TETI/ N.OPER. USUARIO       OBSERVAC.          
+    OPERAT.                                                                         ATENC. OPER                                          
+    ------------------------------------------------------------------------------------------------------------------------------------ 
+                                                                                                                                         
+     NORMAL     193-0003620343-0-20 (CTE.)    EL SUPER S A                                                                               
+    111 008  Pag tarjeta credito     CARU   4404            6,000.00-              15 58 TNZM-  1003515  TNP0ZM                          
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL          84,689.86   SALDO LIQUIDO          84,689.86   RETENC.               0.00     
+                                                                                                                                         
+     NORMAL     193-0003644908-0-50 (CTE.)    LA CASITA S.A.C                                                                            
+    20/03/25                SALDO ANTERIOR                184,557.80                                                                     
+    111 062  PRESTAMO - AGENCIA      ABOU   2602            3,000.00               18 03 S950-M 2226290  S9P050                          
+    193 000  IMPUESTO ITF                   0909                 .15-              99 99 BTCH-M                                          
+                                                                                                                                         
+                            SALDO CONTABLE ACTUAL         187,557.65   SALDO LIQUIDO         187,557.65   RETENC.               0.00     
